@@ -1,0 +1,18 @@
+skill_1: Testing theory
+skill_2: Terminal
+skill_3: Git
+skill_4: Postman
+skill_5: Charles
+skill_6: ADB
+skill_7: Xcode
+skill_8: Dev_Tools
+skill_9: Android_Studio
+skill_10: Mobile_testing
+skill_11: SQL
+skill_12: Jmeter
+skill_13: Scrum
+skill_14: Python
+skill_15: Postgres
+skill_16: Redis
+skill_17: SDLC
+skill_18: STLC
