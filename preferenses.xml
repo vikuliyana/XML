@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <my_favorite_series>Yellowstone</my_favorite_series>
+  <my_favorite_film>The Prestige</my_favorite_film>
+  <my_favorite_food>Sushi</my_favorite_food>
+  <my_favorite_season>Summer</my_favorite_season>
+  <my_favorite_countries>
+    <First>Germany</First>
+    <Second>Canada</Second>
+    <Third>Italy</Third>
+  </my_favorite_countries>
+  <my_favorite_city>Munich</my_favorite_city>
+</root>

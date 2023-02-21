@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>Viktoriia</name>
+  <sername>Bespiatova</sername>
+  <age>23</age>
+  <pets>
+    <dog>Nord</dog>
+    <cat_1>Anfisa</cat_1>
+    <cat_2>Sonya</cat_2>
+  </pets>
+  <salary>$2000</salary>
+</root>
