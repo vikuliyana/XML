@@ -1,0 +1,8 @@
+name: Viktoriia
+sername: Bespiatova
+age: 23
+pets:
+1. dog - Nord
+2. cat 1 - Anfisa
+3. cat 2 - Sonya
+salary: $2000
