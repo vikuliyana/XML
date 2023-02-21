@@ -1,0 +1,9 @@
+my_favorite_series: Yellowstone
+my_favorite_film: The Prestige
+my_favorite_food: Sushi
+my_favorite_season: Summer
+my_favorite_countries:
+1. Germany
+2. Canada
+3. Italy
+my_favorite_city: Munich
